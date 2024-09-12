@@ -1,1 +1,3 @@
-console.log("konflikt")
+
+console.log("hej")
+console.log("hejdå")
