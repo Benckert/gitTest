@@ -1,2 +1,1 @@
-# gitTest
-Test för att lära oss git
+Nu börjar jag fatta branches
